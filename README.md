@@ -1,3 +1,7 @@
+<a href="https://heroku.com/deploy?template=https://github.com/stewpidtnlvr/youtube-viewer/tree/master">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+
 ## youtube-viewer
 
 A lightweight application for searching and playing videos from YouTube.
